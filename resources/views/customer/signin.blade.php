@@ -291,95 +291,59 @@
                                                                 <br><br>
 
                                                                 <b>Purpose</b><br>
-                                                                ArtClick aims to promote Palawan’s cultural heritage
-                                                                through the sale of handcrafted items. Every product
-                                                                tells a story, reflecting the history and artistry of
-                                                                indigenous groups from the region. Our goal is to
-                                                                elevate these cultural treasures and provide an
-                                                                educational experience for customers, while ensuring a
-                                                                smooth online shopping experience.
+                                                                ArtClick aims to promote Palawan’s rich cultural heritage by offering handcrafted items that reflect the artistry and history of the region's indigenous groups. Each product tells a story, providing customers with a meaningful shopping and educational experience.
                                                                 <br><br>
 
                                                                 <b>Account Registration</b><br>
-                                                                - Users may need to create an account to access certain
-                                                                features of the website. By registering, you agree to
-                                                                provide accurate, complete information.<br>
-                                                                - You are responsible for maintaining the
-                                                                confidentiality of your account credentials and any
-                                                                activity under your account. <br>
-                                                                - We reserve the right to suspend or terminate your
-                                                                account if any terms are violated.
+                                                                •	Users may need to create an account to access certain features of the platform. By registering, you agree to provide accurate and complete information.
+                                                                •	You are responsible for maintaining the confidentiality of your account credentials and any activities conducted under your account.
+                                                                •	ArtClick reserves the right to suspend or terminate accounts if the terms are violated.
                                                                 <br><br>
 
                                                                 <b>Pricing and Payment</b><br>
-                                                                - All prices are listed in PHP and are subject to change
-                                                                without prior notice.<br>
-                                                                - We accept various secure payment methods, which are
-                                                                displayed during checkout. You agree to provide accurate
-                                                                billing details. <br>
-                                                                - Orders are subject to acceptance based on product
-                                                                availability.
+                                                                •	All prices are listed in Philippine Pesos (PHP) and are subject to change without prior notice.
+•	We accept secure payment methods displayed during the checkout process. You agree to provide accurate billing details.
+•	All orders are subject to acceptance, based on product availability.
                                                                 <br><br>
 
                                                                 <b>Shipping and Delivery</b><br>
-                                                                - Shipping fees and delivery times are provided at
-                                                                checkout. We will aim to deliver products promptly, but
-                                                                delivery times may vary depending on the customer's
-                                                                location.<br>
-                                                                - Shipping fees are non-refundable.
+                                                                •	Shipping fees and estimated delivery times are provided at checkout. While we strive to deliver products promptly, delivery times may vary depending on your location.
+•	Shipping fees are non-refundable.
+•	ArtClick is not liable for delays caused by third-party delivery services or unforeseen circumstances.
                                                                 <br><br>
 
-                                                                <b>6. Returns and Refunds</b><br>
-                                                                6.1 We accept returns for most products within 30 days
-                                                                of delivery, provided that they are in their original
-                                                                packaging and unused. Some products may not be eligible
-                                                                for return.<br>
-                                                                6.2 Refunds will be issued to the original payment
-                                                                method within [X] business days after we receive the
-                                                                returned product.
+                                                                <b> Returns and Refunds</b><br>
+                                                                •	Most products can be returned within 30 days of delivery, provided they are unused and in their original packaging.
+•	Some items, such as custom-made or perishable products, may not be eligible for returns. These exceptions will be clearly stated at the time of purchase.
+•	Refunds will be processed to the original payment method within 7-10 business days after we receive the returned product.
                                                                 <br><br>
 
-                                                                <b>7. Intellectual Property</b><br>
-                                                                7.1 All content on this Site, including but not limited
-                                                                to text, graphics, logos, and images, is the property of
-                                                                [Your Website Name] or its content suppliers and is
-                                                                protected by copyright laws.<br>
-                                                                7.2 You may not use, copy, or distribute any content
-                                                                from the Site without our prior written permission.
+                                                                <b>7Intellectual Property</b><br>
+                                                                •	All content on ArtClick, including but not limited to text, images, graphics, and logos, is the property of ArtClick or its content suppliers and is protected under copyright laws.
+•	You may not use, copy, or distribute any content from ArtClick without prior written permission.
                                                                 <br><br>
 
-                                                                <b>8. Limitation of Liability</b><br>
-                                                                8.1 In no case shall [Your Website Name], our directors,
-                                                                officers, employees, affiliates, or service providers be
-                                                                liable for any direct, indirect, incidental, punitive,
-                                                                or consequential damages arising from your use of the
-                                                                Site or our services.<br>
-                                                                8.2 Our liability is limited to the maximum extent
-                                                                permitted by law.
+                                                                <b>Limitation of Liability</b><br>
+                                                                •	ArtClick, its directors, officers, employees, affiliates, and service providers shall not be liable for any direct, indirect, incidental, punitive, or consequential damages arising from your use of the platform.
+                                                                •	Our liability is limited to the fullest extent permitted by law.
                                                                 <br><br>
 
-                                                                <b>9. Third-Party Links</b><br>
-                                                                9.1 Our Site may include links to third-party websites.
-                                                                We are not responsible for the content, policies, or
-                                                                practices of any third-party sites.<br>
-                                                                9.2 You acknowledge and agree that we shall not be
-                                                                liable for any damage or loss caused by visiting such
-                                                                third-party sites.
+                                                                <b>Third-Party Links</b><br>
+                                                                •	ArtClick may include links to third-party websites for user convenience. We are not responsible for the content, policies, or practices of these external sites.
+                                                                •	By using third-party links, you acknowledge and agree that ArtClick is not liable for any damages or losses caused by interactions with these websites.
                                                                 <br><br>
 
-                                                                <b>10. Governing Law</b><br>
-                                                                10.1 These terms shall be governed by and construed in
-                                                                accordance with the laws of [Country/State].<br>
-                                                                10.2 Any disputes arising under these terms will be
-                                                                resolved through arbitration in [Location].
+                                                                <b>Privacy and Data Protection
+                                                                </b><br>
+                                                                •	ArtClick is committed to protecting your privacy. By using the platform, you consent to the collection, use, and storage of your data as outlined in our Privacy Policy.
+                                                                •	We use secure encryption to protect sensitive information and comply with applicable data protection laws.
                                                                 <br><br>
 
-                                                                <b>11. Changes to Terms and Conditions</b><br>
-                                                                11.1 We reserve the right to modify these terms at any
-                                                                time. Any changes will be effective upon posting on the
-                                                                Site.<br>
-                                                                11.2 It is your responsibility to review these terms
-                                                                periodically for updates.
+                                                                <b>Changes to Terms and Conditions</b><br>
+                                                                •	ArtClick reserves the right to update or modify these Terms and Conditions at any time. Changes will take effect once posted on the platform.
+                                                                •	It is your responsibility to review these Terms periodically. Continued use of the platform after changes implies your acceptance of the updated Terms.
+                                                                <br><br>
+                                                                By using ArtClick, you agree to these Terms and Conditions. If you have any questions or concerns, please contact us at arpeetee16@gmail.com
                                                                 <br><br>
                                                             </p>
                                                         </div>

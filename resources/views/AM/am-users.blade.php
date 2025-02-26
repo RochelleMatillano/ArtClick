@@ -69,10 +69,6 @@
                     <div class="page-title">
                         <h4>Users List</h4>
                     </div>
-                    <div class="page-btn">
-                        <a class="btn btn-added" data-bs-toggle="modal" data-bs-target="#users-add">
-                            <img src="{{ asset('manager/img/icons/plus.svg') }}" alt="img" class="me-1">Add Admin</a>
-                    </div>
                 </div>
 
 
@@ -206,9 +202,7 @@
                                         <td>{{$user->email}}</td>
                                         <td>{{$user->role}} </td>
                                         <td>
-                                            <a class="me-3" data-bs-toggle="modal" data-bs-target="#user-edit">
-                                                <img src="{{ asset('manager/img/icons/edit.svg')}}" alt="img">
-                                            </a>
+                                          
                                             <a class="me-3 confirm-text" href="javascript:void(0);">
                                                 <img src="{{ asset('manager/img/icons/delete.svg') }}" alt="img">
                                             </a>

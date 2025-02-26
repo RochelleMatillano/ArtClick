@@ -143,20 +143,7 @@
                                                                             <label>Expense Name</label>
                                                                             <input type="text" name="expense_name" value="{{$expense->expense_name}}">
                                                                         </div>
-                                                                    </div>
-                                                                    <div class="col-lg-12 col-sm-12 col-12">
-                                                                        <div class="form-group">
-                                                                            <label>
-                                                                                Expense Image</label>
-                                                                            <div class="image-upload">
-                                                                                <input type="file" name="expense_image" value="{{$expense->expense_image}}">
-                                                                                <div class="image-uploads">
-                                                                                    <img src="{{ asset('manager/img/icons/upload.svg') }}" alt="img">
-                                                                                    <h4>Drag and drop a file to upload</h4>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>                                                           
+                                                                    </div>                                                          
                                                                 </div>
                                                                 <div class="col-lg-12">
                                                                     <button type="submit" name="submit" class="btn btn-submit me-2">Submit</button>
